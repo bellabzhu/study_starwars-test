@@ -1,0 +1,8 @@
+.text-main__text {
+  margin: 40px auto;
+  padding: 0;
+  text-align: justify;
+  font-size: 42px;
+  line-height: 70px;
+  color: #fbc626;
+}

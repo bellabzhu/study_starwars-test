@@ -1,0 +1,14 @@
+
+.logo {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  background-image: url(../../images/logo.png);
+  background-size: contain;
+  width: 2000px;
+  height: 856px;
+  scale: 1;
+  align-self: center;
+  z-index: 10;
+  opacity: 0;
+}

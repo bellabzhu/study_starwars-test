@@ -1,0 +1,17 @@
+@keyframes back-anim {
+  0% {
+    background-image: url(../../images/background-black.png);
+    background-repeat: repeat;
+  }
+  10% {
+    background-image: url(../../images/background-space.png);
+  }
+ 100% {
+    background-image: url(../../images/background-space.png);
+ }
+}
+
+.back-anim {
+  animation: back-anim 0.3s ease-in forwards;
+  animation-delay: 6s;
+}

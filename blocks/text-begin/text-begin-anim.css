@@ -1,0 +1,18 @@
+@keyframes text-begin-anim {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  85% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.text-begin-anim {
+  animation: text-begin-anim 5s ease-out forwards;
+}

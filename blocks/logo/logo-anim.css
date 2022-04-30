@@ -1,0 +1,18 @@
+@keyframes logo-scale {
+  0% {
+    transform: scale(1.4);
+    opacity: 1;
+  }
+  95% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(0.02);
+    opacity: 0;
+  }
+}
+
+.logo-anim {
+  animation: logo-scale 12s ease-out;
+  animation-delay: 6s;
+}

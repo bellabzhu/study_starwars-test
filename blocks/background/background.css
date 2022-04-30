@@ -1,0 +1,16 @@
+.background {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px auto 0 auto;
+  padding: 0;
+  width: 1280px;
+  height: 570px;
+  object-fit: contain;
+  border-radius: 80px;
+  box-shadow: rgb(3, 48, 79, 0.5) 0 0 40px;
+  z-index: 1;
+  overflow: hidden;
+}

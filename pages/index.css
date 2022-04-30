@@ -1,0 +1,41 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/background/background.css);
+@import url(../blocks/background/back-anim.css);
+
+@import url(../blocks/possible-copyright-issues/possible-copyright-issues.css);
+
+@import url(../blocks/text-begin/text-begin.css);
+@import url(../blocks/text-begin/text-begin-anim.css);
+@import url(../blocks/text-begin/text-begin-anim-end.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/logo-anim.css);
+
+@import url(../blocks/text-main-container/text-main-container.css);
+@import url(../blocks/text-main-container/text-main-container-anim.css);
+@import url(../blocks/text-main/text-main.css);
+@import url(../blocks/empty-space/empty-space.css);
+@import url(../blocks/text-main-inside/text-main-inside.css);
+@import url(../blocks/text-main-inside/text-main-inside-anim.css);
+@import url(../blocks/text-main/__header/text-main__header.css);
+@import url(../blocks/text-main/__text/text-main__text.css);
+
+@import url(../blocks/button/button.css);
+
+@import url(../blocks/button/__text/button__text.css);
+
+@import url(../blocks/viewers/viewers.css);
+
+@import url(../blocks/audio/audio.css);
+
+@font-face {
+  font-family: 'Galaxy';
+  src: url(../fonts/SF\ Distant\ Galaxy\ Alternate\ Italic.ttf);
+}
+@font-face {
+  font-family: 'Jost', sans-serif;
+  src: url(https://fonts.googleapis.com/css2?family=Jost&display=swap);
+}

@@ -1,0 +1,19 @@
+/* @keyframes empty-space-anim {
+  0% {
+    height: 1900px;
+  }
+
+  100% {
+    height: 500px;
+  }
+}
+
+.empty-space {
+  position: relative;
+  align-self: flex-start;
+  margin: 0;
+  padding: 0;
+  height: 1900px;
+  outline: solid blue 1px;
+  animation: empty-space-anim 22s linear;
+} */

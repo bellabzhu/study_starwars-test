@@ -1,0 +1,14 @@
+@keyframes text-main-container-anim {
+  0% {
+    perspective: 600px;
+    transform: translateY(0);
+  }
+  100% {
+    perspective: 500px;
+    transform: translateY(-300px);
+  }
+}
+
+.text-main-container-anim {
+  animation: text-main-container-anim 35s linear forwards 18s;
+}

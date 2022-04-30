@@ -1,0 +1,13 @@
+@keyframes text-begin-anim-end {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.text-begin-anim-end {
+  animation: text-begin-anim-end 1.5s ease-out;
+  animation-delay: 3s;
+}

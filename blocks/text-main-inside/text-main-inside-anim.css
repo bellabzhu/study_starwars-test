@@ -1,0 +1,13 @@
+@keyframes text-main-inside-anim {
+  0% {
+    opacity: 1;
+    margin-top: 1450px;
+  }
+  100% {
+    margin-top: -250px;
+  }
+}
+
+.text-main-inside-anim {
+  animation: text-main-inside-anim 35s linear forwards 18s;
+}
